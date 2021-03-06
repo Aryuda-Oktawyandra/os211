@@ -3,3 +3,6 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 15 L03 Setting up Github repository
 ZCZC W01 5 L09 Ask a few questions to the Assistant
+ZCZC W01 15 L11 Downloading Debian Netinst
+ZCZC W01 10 L11 Downloading and installing VirtualBox
+ZCZC W01 60 L23 Discuss about pros & cons of mobile's and PC's apps
