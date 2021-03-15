@@ -6,3 +6,4 @@ ZCZC W01 5 L09 Ask a few questions to the Assistant
 ZCZC W01 15 L11 Downloading Debian Netinst
 ZCZC W01 10 L11 Downloading and installing VirtualBox
 ZCZC W01 60 L23 Discuss about pros & cons of mobile's and PC's apps
+ZCZC W02 180 L10 Doing Week 02 Assignment
