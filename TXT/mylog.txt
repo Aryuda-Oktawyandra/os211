@@ -9,3 +9,4 @@ ZCZC W01 60 L23 Discuss about pros & cons of mobile's and PC's apps
 ZCZC W02 330 L10 Doing Week 02 Assignment
 ZCZC W03 120 L10 Doing Week 03 Assignment
 ZCZC W04 120 L10 Doing Week 04 Assignment
+ZCZC W05 100 L10 Doing Week 05 Assignment
