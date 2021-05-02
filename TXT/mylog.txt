@@ -11,3 +11,4 @@ ZCZC W03 120 L10 Doing Week 03 Assignment
 ZCZC W04 120 L10 Doing Week 04 Assignment
 ZCZC W05 100 L10 Doing Week 05 Assignment
 ZCZC W06 150 L10 Doing Week 06 Assignment
+ZCZC W06 240 L10 Doing Week 07 Assignment
