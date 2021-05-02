@@ -14,3 +14,6 @@ ZCZC W04 azricot
 ZCZC W05 advistasyam
 ZCZC W05 galacticor
 ZCZC W05 Sasfort
+ZCZC W05 Sasfort
+ZCZC W05 galacticor
+ZCZC W05 advistasyam
