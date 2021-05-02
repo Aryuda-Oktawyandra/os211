@@ -13,4 +13,5 @@ Aryuda Oktawyandra - 1906307542
 <b>[W03](https://aryudaokta.github.io/os211/W03/)</b> <br>
 <b>[W04](https://aryudaokta.github.io/os211/W04/)</b> <br>
 <b>[W05](https://aryudaokta.github.io/os211/W05/)</b> <br>
-<b>[W06](https://aryudaokta.github.io/os211/W06/)</b>
+<b>[W06](https://aryudaokta.github.io/os211/W06/)</b> <br>
+<b>[W07](https://aryudaokta.github.io/os211/W07/)</b>
